@@ -1,0 +1,57 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-color: darkgrey;
+     display: flex;
+     justify-content: space-between;
+     width: 100vw;
+ }
+
+ .conteudo {
+     width: 1000px;
+     padding: 50;
+ }
+
+ .faixa_lateral_direita {
+    background-color: grey;
+     width: 150px;
+ }
+
+ .curriculo {
+     max-width: 800px;
+     margin: 0 auto;
+     padding: 50px;
+ }
+
+ h1,
+ h2 {
+     color: #333;
+ }
+
+ ul {
+     list-style-type: none;
+     padding: 0;
+ }
+
+ li {
+     margin-bottom: 8px;
+ }
+
+ .icons_box {
+     display: flex;
+     justify-content: space-around;
+ }
+
+ .icon {
+     width: 50px;
+ }
+
+ .foto_perfil {
+     width: 200px;
+     margin-bottom: 100px;
+     border-radius: 30%;
+ }
+ .cabecalho_titulo {
+    color: #161415;
+    font-family: 'jordana', sans-serif;
+    font-size: 200%;
+ }
